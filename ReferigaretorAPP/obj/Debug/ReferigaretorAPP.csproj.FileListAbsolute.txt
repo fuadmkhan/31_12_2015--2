@@ -1,0 +1,9 @@
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\bin\Debug\ReferigaretorAPP.exe.config
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\bin\Debug\ReferigaretorAPP.exe
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\bin\Debug\ReferigaretorAPP.pdb
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.csprojResolveAssemblyReference.cache
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.Properties.Resources.resources
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.csproj.GenerateResource.Cache
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.exe
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.pdb
+D:\ASP All Project\ReferigaretorAPP\ReferigaretorAPP\obj\Debug\ReferigaretorAPP.RefrigaratorUI.resources
